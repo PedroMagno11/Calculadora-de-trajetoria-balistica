@@ -27,8 +27,12 @@ Este projeto foi desenvolvido em Python, utilizando a biblioteca **CustomTkinter
 
 - **Visualização gráfica:**
   - **Gráfico 2D** com a trajetória e marcadores para o atirador e o alvo.
+
+  <img src="assets/2d.png">
+  
   - **Gráfico 3D** interativo, mostrando a trajetória em perspectiva e as posições do atirador e do alvo.
 
+  <img src="assets/3d.png">
 ---
 #### Dicionário
 theta = angulo theta
